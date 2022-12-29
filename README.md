@@ -37,4 +37,4 @@ https://localhost:12345
 3. Type a message in the input field and press send
 4. The message will be sent to the chat room in real time
 5. To send your location, click the send location button
-6. Your location will be sent to the chat room in real time
+6. Your location will be sent to the chat room in real time.
