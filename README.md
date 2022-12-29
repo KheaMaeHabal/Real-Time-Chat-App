@@ -1,4 +1,4 @@
-# Chat-App_IT-3-3
+# Real-Time-Chat-App-IT-3-3
 
 This is a chat app built using Node.js, Socket.io, and Express.
 
